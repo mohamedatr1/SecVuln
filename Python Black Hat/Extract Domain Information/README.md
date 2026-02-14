@@ -1,7 +1,7 @@
 ---
 
-### 2. Extract Domain Information
-(لمجلد استخراج معلومات النطاق [cite: 2])
+###  Extract Domain Information
+
 
 ```markdown
 # Domain WHOIS Intelligence Extractor
@@ -20,3 +20,4 @@ This script is a reconnaissance tool used to retrieve registration and ownership
 ### Usage
 ```bash
 python Extract_Domain_inf.py
+
