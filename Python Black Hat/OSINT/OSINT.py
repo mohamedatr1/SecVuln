@@ -34,4 +34,5 @@ def osint_ex(query):
         for result in all_result:
             print(f"Title: {result['title']}\nLink: {result['link']}\n")
 
-osint_ex("Mohamed Bachir")
+
+osint_ex("Mohamed")
