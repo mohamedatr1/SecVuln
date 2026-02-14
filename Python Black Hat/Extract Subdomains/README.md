@@ -1,17 +1,21 @@
-Multi-Threaded Subdomain Brute-Forcer
-Description
-This is a high-performance reconnaissance tool designed to discover subdomains by testing all possible character combinations. It features a recursive generation engine and utilizes multi-threading to achieve high-speed scanning, making it significantly faster than sequential scripts.
+# Multi-Threaded Subdomain Brute-Forcer
 
-Technical Steps
-Recursive Generation: Uses a recursive algorithm to generate every possible combination of letters (a-z) up to a defined length (e.g., aaa, aab, aac...).
+### Description
+This high-performance reconnaissance tool is designed to discover subdomains by testing all possible character combinations. It features a recursive generation engine and utilizes multi-threading to achieve high-speed scanning, making it significantly more efficient than sequential scripts.
 
-Concurrent Execution (Threading): Employs ThreadPoolExecutor to run multiple network checks simultaneously (up to 10 threads). This prevents the script from waiting for one URL to respond before checking the next.
 
-HTTP Validation: Sends requests to each generated subdomain and filters results based on HTTP status codes (200, 301, 302).
 
-Resilience: Implements a 3-second timeout and exception handling to ensure the script continues running even if a connection fails or hangs.
+### Technical Workflow
+* **Recursive Generation**: Uses a recursive algorithm to generate every possible combination of lowercase letters (a-z) up to a user-defined length (e.g., 'a', 'ab', 'abc').
+* **Concurrent Execution**: Employs the `ThreadPoolExecutor` from the `concurrent.futures` module to manage 10 simultaneous worker threads. This allows the script to handle multiple network requests in parallel.
+* **HTTP Validation**: Sends GET requests to each generated subdomain and filters the results based on standard success and redirect status codes (200, 301, 302).
+* **Error Resilience**: Implements a 3-second timeout and robust exception handling to ensure that failed connections or DNS timeouts do not interrupt the scanning process.
+* **Dynamic Mapping**: Uses the `.map()` function to distribute the list of generated subdomains across the available thread pool for optimal resource utilization.
 
-Requirements
-requests library.
+### Requirements
+* **Requests**: For handling HTTP communication and status code validation.
+* **Concurrent.futures**: (Standard library) For managing the thread pool.
 
-concurrent.futures .
+### Installation
+```bash
+pip install requests
