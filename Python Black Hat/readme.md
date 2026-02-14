@@ -32,9 +32,3 @@ This repository is a collection of specialized Python tools designed for **Offen
 
 ---
 
-### 🛠️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/Python-Black-Hat.git](https://github.com/mohamedatr1/Python-Black-Hat.git)
-   cd Python-Black-Hat
