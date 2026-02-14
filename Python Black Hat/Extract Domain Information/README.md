@@ -1,7 +1,7 @@
 ---
 
 ### 2. Extract Domain Information
-([cite: 2])
+(لمجلد استخراج معلومات النطاق [cite: 2])
 
 ```markdown
 # Domain WHOIS Intelligence Extractor
