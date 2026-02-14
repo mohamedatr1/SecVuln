@@ -27,9 +27,7 @@ This repository is a collection of specialized Python tools designed for **Offen
 ### 📺 Live Demo
 Watch the **Extract Subdomains** tool in action, demonstrating high-speed concurrent scanning:
 
-<div align="center">
-  <video src="media/video.mp4" width="100%" controls title="Subdomain Brute-force Demo"></video>
-</div>
+
 
 ---
 
