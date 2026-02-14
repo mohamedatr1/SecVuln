@@ -1,25 +1,25 @@
-OSINT Search & Result Aggregator
-Description
-This script is an advanced OSINT (Open Source Intelligence) tool designed to automate search queries on Bing and aggregate results into a structured format. Unlike basic scrapers, it navigates through multiple pages, extracts both titles and URLs, and stores them in a list for further analysis or data export.
+# OSINT Search & Result Aggregator
 
-Technical Steps
-Targeted Search: Initiates a search session using a specific query (e.g., a person's name or a specific domain).
+### Description
+This script is an advanced OSINT (Open Source Intelligence) tool designed to automate search queries on Bing and aggregate results into a structured data format. It handles complex tasks such as multi-page navigation, metadata extraction, and persistent data storage within the session.
 
-Dynamic Selector Handling: Uses wait_for_selector to ensure that search results (li.b_algo) are fully rendered before extraction, preventing script crashes.
 
-Structured Data Extraction:
 
-Locates the title within the anchor <a> tag.
+### Technical Workflow
+* **Automated Search Execution**: Initiates a headless or headed browser session to perform targeted searches based on user-defined queries (e.g., specific names, entities, or domains).
+* **Dynamic Content Synchronization**: Utilizes `wait_for_selector` to ensure that the search engine's results (`li.b_algo`) are fully rendered and accessible before attempting data extraction.
+* **Structured Data Extraction**: 
+    * **Title Capture**: Programmatically identifies the anchor `<a>` tag to extract the descriptive text of the search result.
+    * **Link Retrieval**: Fetches the exact `href` attribute to obtain the direct destination URL.
+* **Data Aggregation**: Appends each discovered result into a centralized list of dictionaries (`all_result`). This structured approach allows for easy integration with databases or export to JSON/CSV formats.
+* **Intelligent Pagination**: Detects the existence of the "Next Page" navigation element (`a.sb_pagN`) and executes a click event to iterate through up to 6 pages of search results automatically.
+* **Failure Tolerance**: Employs internal `try-except` blocks to ensure the script continues processing even if individual result elements are malformed or blocked.
 
-Extracts the exact href attribute to get the destination link.
+### Requirements
+* **Playwright**: For high-level browser automation and DOM manipulation.
+* **Chromium**: The browser engine used to interact with the search engine.
 
-Data Aggregation: Appends each result as a dictionary (Title/Link) into a master list (all_result), demonstrating solid data management.
-
-Automated Pagination: Checks for the existence of the "Next" button (a.sb_pagN) and clicks it to move through up to 6 pages of results.
-
-Error Resiliency: Implements a try-except block within the loop to skip broken or incomplete search result elements without stopping the entire process.
-
-Requirements
-playwright library.
-
-Chromium browser.
+### Installation
+```bash
+pip install playwright
+playwright install chromium
