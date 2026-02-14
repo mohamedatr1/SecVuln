@@ -29,6 +29,10 @@ Watch the **Extract Subdomains** tool in action, demonstrating high-speed concur
 
 
 
+https://github.com/user-attachments/assets/4c4e858a-ee5a-43fa-98a6-b838f440cc20
+
+
+
 ---
 
 ### 🚀 Technical Highlights
