@@ -1,7 +1,7 @@
 # 🛠️ Python Black Hat Toolkit
 
 <p align="center">
-  <img src="./photo.png" alt="Black Hat Python Inspiration" width="600">
+  <img src="media/photo.png" alt="Black Hat Python Inspiration" width="600">
 </p>
 
 ### Overview
@@ -28,7 +28,7 @@ This repository is a collection of specialized Python tools designed for **Offen
 Watch the **Extract Subdomains** tool in action, demonstrating high-speed concurrent scanning:
 
 <div align="center">
-  <video src="./video.mp4" width="100%" controls title="Subdomain Brute-force Demo"></video>
+  <video src="media/video.mp4" width="100%" controls title="Subdomain Brute-force Demo"></video>
 </div>
 
 ---
