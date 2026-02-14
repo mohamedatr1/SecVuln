@@ -1,9 +1,11 @@
 # 🛠️ Python Black Hat Toolkit
 
+<p align="center">
+  <img src="./photo.png" alt="Black Hat Python Inspiration" width="600">
+</p>
+
 ### Overview
 This repository is a collection of specialized Python tools designed for **Offensive Security**, **OSINT** (Open Source Intelligence), and **Automated Information Gathering**. Each module is organized into its own directory, focusing on a specific phase of a security audit.
-
-
 
 ---
 
@@ -22,13 +24,21 @@ This repository is a collection of specialized Python tools designed for **Offen
 
 ---
 
+### 📺 Live Demo
+Watch the **Extract Subdomains** tool in action, demonstrating high-speed concurrent scanning:
+
+<div align="center">
+  <video src="./video.mp4" width="100%" controls title="Subdomain Brute-force Demo"></video>
+</div>
+
+---
+
 ### 🚀 Technical Highlights
 
 * **Browser Automation**: Extensive use of **Playwright** to bypass JavaScript-heavy protections and render dynamic content.
-* **Concurrency**: Implementation of **Multithreading** via `ThreadPoolExecutor` to optimize network-bound tasks like subdomain scanning.
-
-* **Data Accuracy**: Use of **Regular Expressions (Regex)** for precise extraction of sensitive data such as emails and phone numbers.
-* **Evidence Collection**: Built-in capabilities to record browser sessions as video files for creating professional security PoCs.
+* **Concurrency**: Implementation of **Multithreading** via `ThreadPoolExecutor` to optimize network-bound tasks.
+* **Data Accuracy**: Use of **Regular Expressions (Regex)** for precise extraction of sensitive data like emails and phone numbers.
+* **Evidence Collection**: Built-in capabilities to record browser sessions as video files for professional security PoCs.
 
 ---
 
