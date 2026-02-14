@@ -1,4 +1,4 @@
-Description
+Description:
 This script automates the login process for a web application and records the entire session as an MP4 video. It is designed for automated testing and creating video evidence for security proof-of-concepts (PoC).
 
 Technical Steps
@@ -29,4 +29,5 @@ Playwright library.
 Chromium browser binaries.
 
 Usage
+
 Run the script to execute the login. A video file will be generated in the project folder under videos/test.mp4.
