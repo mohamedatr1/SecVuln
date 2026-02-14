@@ -1,23 +1,22 @@
-Domain WHOIS Intelligence Extractor
-Description
-This script is a reconnaissance tool used to retrieve registration and ownership details for a specific domain or IP address. It is an essential part of the Information Gathering phase in security auditing.
+---
 
-Technical Steps
-Input: Takes a domain name or an IP address as a target.
+### 2. Extract Domain Information
+([cite: 2])
 
-WHOIS Query: Uses the whois library to query global WHOIS databases.
+```markdown
+# Domain WHOIS Intelligence Extractor
 
-Data Retrieval: Extracts critical information such as:
+### Description
+This script is a reconnaissance tool used to retrieve registration and ownership details for a specific domain or IP address[cite: 2]. 
 
-Domain registrar and registration date.
+### Technical Steps
+1. **Input**: Takes a domain name or IP address[cite: 2].
+2. **WHOIS Query**: Queries global WHOIS databases using the `whois` library[cite: 2].
+3. **Data Retrieval**: Extracts critical information such as registrar, expiration date, and name servers[cite: 2].
 
-Expiration date.
+### Requirements
+* `python-whois` library[cite: 2].
 
-Name servers (DNS).
-
-Owner/Organization contact details (if public).
-
-Output: Prints the raw and structured intelligence data to the console for analysis.
-
-Requirements
-python-whois library.
+### Usage
+```bash
+python Extract_Domain_inf.py
