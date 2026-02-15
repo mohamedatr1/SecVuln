@@ -16,5 +16,5 @@ In the world of LLMs (Large Language Models), Algerian Arabic is a "Low-Resource
 
 ## 🛠️ Installation
 ```bash
-git clone [https://github.com/mohamedatr1/Cyber-Core.git](https://github.com/mohamedatr1/Cyber-Core.git)
+git clone https://github.com/mohamedatr1/Cyber-Core.git(https://github.com/mohamedatr1/Cyber-Core.git)
 cd Cyber-Core/DZ-Dialect-AI-Analyzer
