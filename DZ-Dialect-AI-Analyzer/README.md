@@ -12,9 +12,5 @@ In the world of LLMs (Large Language Models), Algerian Arabic is a "Low-Resource
 ## 💻 Technical Implementation
 - **Language:** Python 3.10+
 - **Framework:** `googletrans` (API-based translation)
-- **Environment:** Compatible with Linux/Termux/Windows (Tested in a Black-Hat Python environment).
+- **Environment:** Compatible with Linux/Termux/Windows .
 
-## 🛠️ Installation
-```bash
-git clone https://github.com/mohamedatr1/Cyber-Core.git(https://github.com/mohamedatr1/Cyber-Core.git)
-cd Cyber-Core/DZ-Dialect-AI-Analyzer
