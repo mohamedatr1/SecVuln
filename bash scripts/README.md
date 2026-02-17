@@ -20,7 +20,8 @@ A lightweight and efficient **Bash** script designed for reconnaissance and pass
 2. **RUN The Script:**
     ```bash
     ./subdomain.sh <target_domain>
-📁 Output Files
+📁 Output Files:
+
 The script generates three organized files in the working directory:
 
 sub.txt: All unique domains found in the source code.
@@ -29,7 +30,8 @@ valid_sub.txt: Subdomains that responded successfully to the connectivity check.
 
 ips.txt: A clean list of unique IP addresses for the active targets.
 
-🔍 How it Works
+🔍 How it Works:
+
 Fetch: Downloads the target's index page quietly using wget.
 
 Extract: Uses strings to handle potential binary/compressed files and filters content for the specific target domain.
@@ -38,5 +40,6 @@ Clean: Trims JavaScript artifacts, HTML entities, and trailing characters to pre
 
 Resolve: Maps valid hosts to their server IPs using the host command and awk for clean output.
 
-⚠️ Disclaimer
+⚠️ Disclaimer:
+
 This tool is for educational purposes and ethical penetration testing only. The developer is not responsible for any unauthorized or illegal use.
