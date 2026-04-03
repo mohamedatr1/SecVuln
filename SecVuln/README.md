@@ -789,9 +789,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
-[![GitHub stars](https://img.shields.io/github/stars/mohamedatr1/SecVuln?style=social)](https://github.com/mohamedatr1/Cyber-Core/SecVuln/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mohamedatr1/SecVuln?style=social)](https://github.com/mohamedatr1/Cyber-Core/SecVuln/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/mohamedatr1/SecVuln?style=social)](https://github.com/mohamedatr1/Cyber-Core/SecVuln/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mohamedatr1/Cyber-Core?style=social)](https://github.com/mohamedatr1/Cyber-Core/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mohamedatr1/Cyber-Core?style=social)](https://github.com/mohamedatr1/Cyber-Core/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/mohamedatr1/Cyber-Core?style=social)](https://github.com/mohamedatr1/Cyber-Core/issues)
 
 <br/>
 
