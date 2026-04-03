@@ -308,9 +308,11 @@ python-dotenv
 **1. Clone the repository**
 
 ```bash
-git clone --filter=blob:none --sparse https://github.com/mohamedatr1/Cyber-Core
+git clone --filter=blob:none --no-checkout https://github.com/mohamedatr1/Cyber-Core
 cd Cyber-Core
+git sparse-checkout init --no-cone
 git sparse-checkout set SecVuln
+git checkout
 ```
 
 > 💡 No `git`? Download the ZIP from **Code → Download ZIP** on the repository page.
