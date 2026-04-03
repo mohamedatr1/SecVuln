@@ -1,15 +1,24 @@
 <div align="center">
 
+<br/>
+
 ```
-  ███████╗███████╗ ██████╗██╗   ██╗██╗   ██╗██╗     ███╗   ██╗
-  ██╔════╝██╔════╝██╔════╝██║   ██║██║   ██║██║     ████╗  ██║
-  ███████╗█████╗  ██║     ██║   ██║██║   ██║██║     ██╔██╗ ██║
-  ╚════██║██╔══╝  ██║     ╚██╗ ██╔╝██║   ██║██║     ██║╚██╗██║
-  ███████║███████╗╚██████╗ ╚████╔╝ ╚██████╔╝███████╗██║ ╚████║
-  ╚══════╝╚══════╝ ╚═════╝  ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ███████╗███████╗ ██████╗██╗   ██╗██╗   ██╗██╗     ███╗   ██╗          ║
+║   ██╔════╝██╔════╝██╔════╝██║   ██║██║   ██║██║     ████╗  ██║          ║
+║   ███████╗█████╗  ██║     ██║   ██║██║   ██║██║     ██╔██╗ ██║          ║
+║   ╚════██║██╔══╝  ██║     ╚██╗ ██╔╝██║   ██║██║     ██║╚██╗██║          ║
+║   ███████║███████╗╚██████╗ ╚████╔╝ ╚██████╔╝███████╗██║ ╚████║          ║
+║   ╚══════╝╚══════╝ ╚═════╝  ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝          ║
+║                                                                           ║
+║            AI-Driven Penetration Testing Agent  ·  OSCP Methodology      ║
+║                  Autonomous · Intelligent · Lethal-Precise                ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-### AI-Driven Penetration Testing Agent · OSCP Methodology
+<br/>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_DAG-FF6B35?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/langchain-ai/langgraph)
@@ -22,21 +31,35 @@
 
 <br/>
 
-> **SecVuln** is a fully autonomous AI-powered penetration testing pipeline — from network reconnaissance to CVE analysis and lateral movement mapping — all in a single command.
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
+[![macOS](https://img.shields.io/badge/macOS-12%2B-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali%20%7C%20Fedora-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
 <br/>
 
-<img width="1918" height="1022" alt="Screenshot 2026-04-03 065532" src="https://github.com/user-attachments/assets/6d8b34d1-2d1d-4cab-be12-17bb8b898308" />
-<img width="1918" height="1020" alt="Screenshot 2026-04-03 070048" src="https://github.com/user-attachments/assets/93dd904a-63a8-45cd-b550-1e310bae9c79" />
-<img width="1918" height="1015" alt="Screenshot 2026-04-03 065756" src="https://github.com/user-attachments/assets/e754b097-5bb1-4684-9c56-ab5d154416ef" />
-<img width="1911" height="1017" alt="Screenshot 2026-04-03 070145" src="https://github.com/user-attachments/assets/a2fd5ee7-09bf-4b60-ab1a-2cb4ca67e46f" />
+> **SecVuln** is a fully autonomous AI-powered penetration testing pipeline — from network reconnaissance to CVE analysis and lateral movement mapping — **all in a single command, on any OS.**
+
+<br/>
+
+<img width="1918" height="1022" alt="SecVuln Screenshot 1" src="https://github.com/user-attachments/assets/6d8b34d1-2d1d-4cab-be12-17bb8b898308" />
+<img width="1918" height="1020" alt="SecVuln Screenshot 2" src="https://github.com/user-attachments/assets/93dd904a-63a8-45cd-b550-1e310bae9c79" />
+<img width="1918" height="1015" alt="SecVuln Screenshot 3" src="https://github.com/user-attachments/assets/e754b097-5bb1-4684-9c56-ab5d154416ef" />
+<img width="1911" height="1017" alt="SecVuln Screenshot 4" src="https://github.com/user-attachments/assets/a2fd5ee7-09bf-4b60-ab1a-2cb4ca67e46f" />
+
+<br/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  python main.py 45.33.32.156   ←  That's all it takes.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 ---
 
 > [!CAUTION]
-> **Legal Disclaimer:** SecVuln is intended **exclusively** for authorized security testing, CTF competitions, and educational research. You must have **explicit written permission** before scanning any target. Unauthorized use may violate local, national, and international law. The authors assume **no liability** for misuse.
+> **⚠ Legal Disclaimer:** SecVuln is intended **exclusively** for authorized security testing, CTF competitions, and educational research on systems you own or have **explicit written permission** to test. Unauthorized use may violate local, national, and international law including the CFAA, Computer Misuse Act, and equivalents worldwide. The authors assume **zero liability** for misuse. **Hack legally. Hack ethically. Always.**
 
 ---
 
@@ -46,9 +69,12 @@
 - [Features](#-features)
 - [Architecture](#️-architecture)
 - [Pipeline Nodes](#-pipeline-nodes)
-- [Terminal Output Preview](#-terminal-output-preview)
+- [Terminal Output Preview](#️-terminal-output-preview)
 - [Requirements](#-requirements)
-- [Installation](#-installation)
+- [Installation — All Platforms](#-installation)
+  - [🐧 Linux](#-linux-ubuntu--debian--kali--fedora)
+  - [🍎 macOS](#-macos)
+  - [🪟 Windows](#-windows)
 - [Usage](#️-usage)
 - [Configuration](#️-configuration)
 - [Evasion Reference](#-evasion-techniques-reference)
@@ -60,13 +86,16 @@
 
 ## 🔍 Overview
 
-**SecVuln** automates the full penetration testing reconnaissance phase using a clean **3-node stateful DAG** built with [LangGraph](https://github.com/langchain-ai/langgraph). It chains together `nmap` for discovery, NSE scripts for deep vulnerability fingerprinting, and **GPT-4o-mini** (via GitHub Models) for intelligent CVE analysis, Metasploit module lookup, and attack prioritization — all with colored terminal output and zero manual steps.
+**SecVuln** automates the full penetration testing reconnaissance phase using a clean **3-node stateful DAG** built with [LangGraph](https://github.com/langchain-ai/langgraph). It chains together `nmap` for discovery, NSE scripts for deep vulnerability fingerprinting, and **GPT-4o-mini** (via GitHub Models) for intelligent CVE analysis, Metasploit module lookup, and attack prioritization — all with rich colored terminal output and zero manual steps.
 
 ```
-python main.py 45.33.32.156
+┌─────────────────────────────────────────┐
+│  python main.py 45.33.32.156            │
+│                                         │
+│  Recon → NSE → AI → Full Report  ✓      │
+│  Works on: Linux · macOS · Windows      │
+└─────────────────────────────────────────┘
 ```
-
-That single command triggers the full pipeline and delivers a structured pentest report.
 
 ---
 
@@ -93,10 +122,30 @@ Sends the full combined scan payload to GPT-4o-mini for CVE identification, Meta
 Full ANSI color system with semantic log levels: `[*] info`, `[+] success`, `[!] warning`, `[ERROR]`, `[SYSTEM]`, and section dividers.
 
 **🔄 Stateful LangGraph DAG**
-3-node pipeline with typed state (`SecurityState`) passed cleanly between nodes — fully extensible.
+3-node pipeline with typed state (`SecurityState`) passed cleanly between nodes — fully extensible and hackable.
 
 **🛡️ Advanced Evasion Support**
-Packet fragmentation, MTU tuning (`--mtu 32`), source port spoofing (`--source-port 53`), scan delay, and random data padding — all configurable.
+Packet fragmentation, MTU tuning (`--mtu 32`), source port spoofing (`--source-port 53`), scan delay, and random data padding — all configurable via env vars.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🪟 Cross-Platform: Windows**
+Runs on Windows 10/11 via Python + nmap installer. PowerShell-friendly env var setup. No WSL required (though supported).
+
+**🍎 Cross-Platform: macOS**
+Homebrew-based nmap install, full Apple Silicon (M1/M2/M3) support. Native `.env` configuration.
+
+</td>
+<td width="50%">
+
+**🐧 Cross-Platform: Linux**
+Optimized for Kali, Ubuntu, Debian, Fedora. Runs as standard user or root (root unlocks SYN scan mode).
+
+**🔑 Free API Access**
+Uses GitHub Models free tier — no paid OpenAI subscription required. Get started with a free GitHub token.
 
 </td>
 </tr>
@@ -109,51 +158,53 @@ Packet fragmentation, MTU tuning (`--mtu 32`), source port spoofing (`--source-p
 SecVuln is a **3-node stateful Directed Acyclic Graph (DAG)** compiled by LangGraph. Each node receives and returns a typed `SecurityState` dict.
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                        SecVuln Pipeline                         │
-│                                                                 │
-│   ┌─────────────────────────────────────────────────────────┐   │
-│   │  Input: target_ip (CLI arg or interactive prompt)       │   │
-│   └───────────────────────────┬─────────────────────────────┘   │
-│                               │                                 │
-│                               ▼                                 │
-│   ┌───────────────────────────────────────────────────────────┐ │
-│   │  🔎  NODE 1 — Reconnaissance Engine                       │ │
-│   │                                                           │ │
-│   │  Primary:   nmap -Pn -sS -sV -sC -T4 --open              │ │
-│   │  Fallback1: nmap -Pn -sS -p- --min-rate=500              │ │
-│   │  Fallback2: nmap -Pn -sT -p- --min-rate=500              │ │
-│   │  Fallback3: nmap -f --mtu 32 --scan-delay 200ms          │ │
-│   │                                                           │ │
-│   │  Output → recon_payload (raw nmap stdout)                 │ │
-│   └───────────────────────────┬───────────────────────────────┘ │
-│                               │                                 │
-│                               ▼  (skipped if no open ports)     │
-│   ┌───────────────────────────────────────────────────────────┐ │
-│   │  🧬  NODE 2 — NSE Deep Vulnerability Scanner              │ │
-│   │                                                           │ │
-│   │  Scripts: vulners, vuln, auth, default                    │ │
-│   │  Merges NSE output with recon_payload                     │ │
-│   │                                                           │ │
-│   │  Output → recon_payload (recon + NSE combined)            │ │
-│   └───────────────────────────┬───────────────────────────────┘ │
-│                               │                                 │
-│                               ▼                                 │
-│   ┌───────────────────────────────────────────────────────────┐ │
-│   │  🤖  NODE 3 — AI Vulnerability Intelligence               │ │
-│   │                                                           │ │
-│   │  Model:  GPT-4o-mini (GitHub Models)                      │ │
-│   │  Input:  Full scan payload                                │ │
-│   │  Output: CVEs · Metasploit · Searchsploit · Attack Plan   │ │
-│   │                                                           │ │
-│   │  Output → security_analysis (final report)                │ │
-│   └───────────────────────────┬───────────────────────────────┘ │
-│                               │                                 │
-│                               ▼                                 │
-│   ┌─────────────────────────────────────────────────────────┐   │
-│   │  Final Report printed to terminal                       │   │
-│   └─────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════╗
+║                         SecVuln Pipeline                             ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║   ┌─────────────────────────────────────────────────────────────┐    ║
+║   │       Input: target_ip  (CLI arg or interactive prompt)     │    ║
+║   └─────────────────────────────┬───────────────────────────────┘    ║
+║                                 │                                    ║
+║                                 ▼                                    ║
+║   ╔═════════════════════════════════════════════════════════════╗    ║
+║   ║  🔎  NODE 1 — Reconnaissance Engine                         ║    ║
+║   ║                                                             ║    ║
+║   ║  Primary:   nmap -Pn -sS -sV -sC -T4 --open               ║    ║
+║   ║  Fallback1: nmap -Pn -sS -p- --min-rate=500               ║    ║
+║   ║  Fallback2: nmap -Pn -sT -p- --min-rate=500               ║    ║
+║   ║  Fallback3: nmap -f --mtu 32 --scan-delay 200ms           ║    ║
+║   ║                                                             ║    ║
+║   ║  Output → recon_payload (raw nmap stdout)                  ║    ║
+║   ╚═════════════════════════════════════════════════════════════╝    ║
+║                                 │                                    ║
+║                                 ▼  (skipped if no open ports)        ║
+║   ╔═════════════════════════════════════════════════════════════╗    ║
+║   ║  🧬  NODE 2 — NSE Deep Vulnerability Scanner                ║    ║
+║   ║                                                             ║    ║
+║   ║  Scripts: vulners, vuln, auth, default                     ║    ║
+║   ║  Merges NSE output with recon_payload                      ║    ║
+║   ║                                                             ║    ║
+║   ║  Output → recon_payload (recon + NSE combined)             ║    ║
+║   ╚═════════════════════════════════════════════════════════════╝    ║
+║                                 │                                    ║
+║                                 ▼                                    ║
+║   ╔═════════════════════════════════════════════════════════════╗    ║
+║   ║  🤖  NODE 3 — AI Vulnerability Intelligence                 ║    ║
+║   ║                                                             ║    ║
+║   ║  Model:  GPT-4o-mini  (GitHub Models)                      ║    ║
+║   ║  Input:  Full scan payload                                 ║    ║
+║   ║  Output: CVEs · Metasploit · Searchsploit · Attack Plan    ║    ║
+║   ║                                                             ║    ║
+║   ║  Output → security_analysis  (final report)                ║    ║
+║   ╚═════════════════════════════════════════════════════════════╝    ║
+║                                 │                                    ║
+║                                 ▼                                    ║
+║   ┌─────────────────────────────────────────────────────────────┐    ║
+║   │              Final Report printed to terminal               │    ║
+║   └─────────────────────────────────────────────────────────────┘    ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 ### State Schema
@@ -181,6 +232,9 @@ The entry node executes nmap against the target using environment-configured opt
 | 4 | **Fragmented** | `-f --mtu 32 --scan-delay 200ms --source-port 53` | Maximum evasion |
 
 > Each stage is timed and its output size is reported. The first strategy that returns open ports stops the chain immediately.
+
+> [!NOTE]
+> **Windows users:** SYN scans (`-sS`) require running as Administrator. If you're not running as Admin, SecVuln automatically falls back to TCP Connect scan (`-sT`) which works without elevated privileges.
 
 ---
 
@@ -218,10 +272,12 @@ Sends the full combined payload to **GPT-4o-mini** via GitHub Models with a seni
 ## 🖥️ Terminal Output Preview
 
 ```
-  ███████╗███████╗ ██████╗██╗   ██╗██╗   ██╗██╗     ███╗   ██╗
-  ...
-  AI-Driven Penetration Testing Agent | OSCP Methodology
-  ⚠  Always obtain written permission before scanning!
+╔═══════════════════════════════════════════════════════════════════════════╗
+║   ███████╗███████╗ ██████╗██╗   ██╗██╗   ██╗██╗     ███╗   ██╗          ║
+║   ...                                                                    ║
+║          AI-Driven Penetration Testing Agent | OSCP Methodology          ║
+║          ⚠  Always obtain written permission before scanning!            ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 
 [?] Enter target IP or hostname: 45.33.32.156
 
@@ -231,32 +287,32 @@ Sends the full combined payload to **GPT-4o-mini** via GitHub Models with a seni
 [SYSTEM] Building SecVuln security analysis graph (3-node DAG)...
 [SYSTEM] Graph compiled successfully. Ready to execute.
 
-──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
   ▶  NODE 1 — Reconnaissance Engine
-──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
 
 [*] Starting reconnaissance on target: 45.33.32.156
 [*] Running: nmap -Pn -sS -sV -sC -T4 --open --top-ports 1000 45.33.32.156
 [+] Primary scan completed in 14.32s — 3847 bytes received
 
-──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
   ▶  NODE 2 — NSE Deep Vulnerability Scanner
-──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
 
 [*] Open ports confirmed. Launching NSE scripts on: 45.33.32.156
 [*] NSE command: nmap -Pn -sV --script vulners,vuln,auth,default -T4 45.33.32.156
 [+] NSE Deep Scan completed in 47.18s
 
-──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
   ▶  NODE 3 — AI Vulnerability Intelligence
-──────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
 
 [*] Transmitting scan data to AI engine for deep analysis...
 [+] AI analysis complete. Generating final report...
 
-════════════════════════════════════════════════════════════
-        SECVULN — AI PENETRATION TESTING REPORT
-════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════
+              SECVULN — AI PENETRATION TESTING REPORT
+════════════════════════════════════════════════════════════════════════════
 
 ## Identified Services
 
@@ -269,21 +325,21 @@ Sends the full combined payload to **GPT-4o-mini** via GitHub Models with a seni
 ## Vulnerability Analysis
 
 ### [CRITICAL] CVE-2015-5600 — OpenSSH MaxAuthTries Bypass
-- **Metasploit:** `auxiliary/scanner/ssh/ssh_login`
-- **Searchsploit:** `searchsploit openssh 6.6`
+- Metasploit: auxiliary/scanner/ssh/ssh_login
+- Searchsploit: searchsploit openssh 6.6
 
 ### [HIGH] CVE-2017-7679 — Apache mod_mime Buffer Overread
-- **Metasploit:** `exploit/multi/http/apache_mod_cgi_bash_env_exec`
+- Metasploit: exploit/multi/http/apache_mod_cgi_bash_env_exec
 
 ## Prioritized Attack Plan
-1. Brute-force SSH via Metasploit ssh_login or hydra
-2. Enumerate HTTP with gobuster / dirb
-3. Test MySQL for default credentials
-...
+  1. Brute-force SSH via Metasploit ssh_login or hydra
+  2. Enumerate HTTP with gobuster / dirb
+  3. Test MySQL for default credentials
+  ...
 
-──────────────────────────────────────────────────────────
-  SecVuln | For authorized testing only | Stay ethical.
-──────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
+   SecVuln  |  For authorized testing only  |  Stay ethical.
+──────────────────────────────────────────────────────────────────────────
 ```
 
 ---
@@ -292,9 +348,9 @@ Sends the full combined payload to **GPT-4o-mini** via GitHub Models with a seni
 
 | Requirement | Version | Notes |
 |---|---|---|
-| Python | 3.8+ | Tested on 3.10 and 3.12 |
-| nmap | 7.x | Must be in `PATH` — `nmap --version` to verify |
-| GitHub Models Token | — | Free tier available at [github.com/marketplace/models](https://github.com/marketplace/models) |
+| Python | 3.8+ | Tested on 3.10 and 3.12 · [python.org](https://www.python.org/downloads/) |
+| nmap | 7.x | Must be in system `PATH` — verify with `nmap --version` |
+| GitHub Models Token | — | Free tier at [github.com/marketplace/models](https://github.com/marketplace/models) |
 
 **Python packages** (installed via `requirements.txt`):
 
@@ -309,7 +365,7 @@ python-dotenv
 
 ## 🚀 Installation
 
-**1. Clone the repository**
+### Step 0 — Clone the Repository (All Platforms)
 
 ```bash
 git clone --filter=blob:none --no-checkout https://github.com/mohamedatr1/Cyber-Core
@@ -317,35 +373,102 @@ cd Cyber-Core
 git sparse-checkout init --no-cone
 git sparse-checkout set SecVuln
 git checkout
+cd SecVuln
 ```
 
-> 💡 No `git`? Download the ZIP from **Code → Download ZIP** on the repository page.
+> 💡 No `git`? Download the ZIP from **Code → Download ZIP** on GitHub and extract the `SecVuln/` folder.
 
-**2. Install nmap** (if not already installed)
+---
+
+### 🐧 Linux (Ubuntu / Debian / Kali / Fedora)
+
+<details>
+<summary><b>Click to expand Linux installation steps</b></summary>
+
+**1. Install nmap**
 
 ```bash
-# Debian / Ubuntu
-sudo apt install nmap -y
+# Ubuntu / Debian / Kali
+sudo apt update && sudo apt install nmap -y
 
-# Fedora / RHEL
+# Fedora / RHEL / CentOS
 sudo dnf install nmap -y
 
-# macOS (Homebrew)
-brew install nmap
-
-# Windows — download installer from https://nmap.org/download.html
+# Arch / Manjaro
+sudo pacman -S nmap
 ```
 
-**3. Create and activate a virtual environment**
+**2. Create and activate virtual environment**
 
 ```bash
-python -m venv venv
-
-# Linux / macOS
+python3 -m venv venv
 source venv/bin/activate
+```
 
-# Windows PowerShell
-venv\Scripts\Activate.ps1
+**3. Install Python dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+**4. Configure API token**
+
+```bash
+cp .env.example .env
+nano .env   # or: vim .env / gedit .env
+```
+
+Add your token:
+
+```env
+GITHUB_TOKEN=ghp_your_token_here
+```
+
+**5. Run SecVuln**
+
+```bash
+# Standard user (TCP Connect mode — no root needed)
+python main.py 45.33.32.156
+
+# Root / sudo (enables SYN stealth scan — recommended)
+sudo python main.py 45.33.32.156
+```
+
+> **Kali Linux users:** You're already root in most setups — SYN scans work natively. No additional configuration needed.
+
+</details>
+
+---
+
+### 🍎 macOS
+
+<details>
+<summary><b>Click to expand macOS installation steps</b></summary>
+
+**1. Install Homebrew** (if not already installed)
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+**2. Install nmap and Python**
+
+```bash
+brew install nmap python
+```
+
+Verify:
+
+```bash
+nmap --version
+python3 --version
+```
+
+**3. Create and activate virtual environment**
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 **4. Install Python dependencies**
@@ -354,19 +477,149 @@ venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
-**5. Configure your API token**
+**5. Configure API token**
 
 ```bash
 cp .env.example .env
+open -e .env   # opens in TextEdit; or use nano/vim
 ```
 
-Open `.env` and set your GitHub Models token:
+Add your token:
 
 ```env
 GITHUB_TOKEN=ghp_your_token_here
 ```
 
-> 🔑 Get a free token at [github.com/settings/tokens](https://github.com/settings/tokens). The GitHub Models free tier is sufficient for most scans.
+**6. Run SecVuln**
+
+```bash
+# Standard mode
+python main.py 45.33.32.156
+
+# SYN scan mode (requires sudo on macOS)
+sudo python main.py 45.33.32.156
+```
+
+> **Apple Silicon (M1/M2/M3):** Fully supported. If you encounter Rosetta-related issues with older Python builds, install Python via Homebrew which provides native ARM binaries.
+
+> **macOS Sonoma / Sequoia users:** If macOS blocks nmap's raw socket access, run with `sudo` or grant terminal Full Disk Access in System Settings → Privacy & Security.
+
+</details>
+
+---
+
+### 🪟 Windows
+
+<details>
+<summary><b>Click to expand Windows installation steps</b></summary>
+
+> **Two options:** Native Windows (PowerShell) or WSL2. Both are fully supported.
+
+#### Option A — Native Windows (PowerShell / CMD)
+
+**1. Install Python**
+
+Download and install Python 3.10+ from [python.org/downloads](https://www.python.org/downloads/).
+
+> ✅ During installation, check **"Add Python to PATH"**. This is critical.
+
+Verify:
+
+```powershell
+python --version
+pip --version
+```
+
+**2. Install nmap**
+
+Download the Windows installer from [nmap.org/download.html](https://nmap.org/download.html) and run it.
+
+> ✅ During installation, check **"Register Nmap Path"** so nmap is available from PowerShell.
+
+Verify:
+
+```powershell
+nmap --version
+```
+
+**3. Create and activate virtual environment**
+
+```powershell
+python -m venv venv
+venv\Scripts\Activate.ps1
+```
+
+> If you get an execution policy error, run this first:
+> ```powershell
+> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+> ```
+
+**4. Install Python dependencies**
+
+```powershell
+pip install -r requirements.txt
+```
+
+**5. Configure API token**
+
+```powershell
+copy .env.example .env
+notepad .env
+```
+
+Add your token:
+
+```env
+GITHUB_TOKEN=ghp_your_token_here
+```
+
+**6. Run SecVuln**
+
+> ⚠ **Run PowerShell as Administrator** to enable SYN stealth scans. Right-click PowerShell → "Run as Administrator".
+
+```powershell
+# Activate venv first
+venv\Scripts\Activate.ps1
+
+# Run SecVuln
+python main.py 45.33.32.156
+```
+
+> **Without Administrator:** SecVuln automatically falls back to TCP Connect scan (`-sT`) which works without elevated privileges but is slightly less stealthy.
+
+**Setting environment variables in PowerShell (alternative to .env):**
+
+```powershell
+$env:GITHUB_TOKEN = "ghp_your_token_here"
+$env:NMAP_PORTS = "-p 22,80,443"
+$env:NMAP_SCAN_TYPE = "-sT"
+python main.py 45.33.32.156
+```
+
+---
+
+#### Option B — WSL2 (Windows Subsystem for Linux) — Recommended for Advanced Users
+
+WSL2 gives you a full Linux environment on Windows with native raw socket support.
+
+**1. Install WSL2**
+
+```powershell
+# Run in PowerShell as Administrator
+wsl --install
+# Restart your PC when prompted
+```
+
+**2. Open Ubuntu terminal and follow the Linux steps above**
+
+```bash
+sudo apt update && sudo apt install nmap python3 python3-pip python3-venv -y
+# Then follow all Linux steps from the Linux section
+```
+
+> WSL2 provides the best experience on Windows — full SYN scan support, native Linux tooling, and Kali Linux available as an optional WSL distro via `wsl --install -d kali-linux`.
+
+</details>
 
 ---
 
@@ -394,14 +647,14 @@ python main.py scanme.nmap.org
 **Abort at any time:**
 
 ```
-Ctrl+C   →  graceful exit with [!] Scan interrupted by user.
+Ctrl+C   →   graceful exit with [!] Scan interrupted by user.
 ```
 
 ---
 
 ## ⚙️ Configuration
 
-All behavior is controlled via **environment variables** — no code changes needed.
+All behavior is controlled via **environment variables** — no code changes needed. Works identically on Linux, macOS, and Windows.
 
 ### Core Variables
 
@@ -414,7 +667,7 @@ All behavior is controlled via **environment variables** — no code changes nee
 
 ### Usage Examples
 
-**Linux / macOS:**
+**🐧 Linux / 🍎 macOS (bash / zsh):**
 
 ```bash
 # Scan specific ports only
@@ -426,22 +679,31 @@ python main.py 192.168.1.10
 export NMAP_EVASION="-f --mtu 32"
 python main.py 10.0.0.5
 
-# Full stealth mode — combine evasion + specific ports
+# Full stealth mode
 export NMAP_SCAN_TYPE="-sT"
 export NMAP_PORTS="-p-"
 export NMAP_EVASION="--scan-delay 500ms --data-length 15"
 python main.py 10.10.10.55
 ```
 
-**Windows PowerShell:**
+**🪟 Windows PowerShell:**
 
 ```powershell
 $env:NMAP_PORTS = "-p 22,80,443"
 $env:NMAP_SCAN_TYPE = "-sT"
+$env:NMAP_EVASION = "--scan-delay 200ms"
 python main.py 45.33.32.156
 ```
 
-**Using a `.env` file:**
+**🪟 Windows CMD:**
+
+```cmd
+set NMAP_PORTS=-p 22,80,443
+set NMAP_SCAN_TYPE=-sT
+python main.py 45.33.32.156
+```
+
+**Using a `.env` file (all platforms):**
 
 ```env
 GITHUB_TOKEN=ghp_your_token_here
@@ -452,7 +714,7 @@ NMAP_SCAN_TYPE=-sS
 NMAP_EVASION=
 ```
 
-> Variables in `.env` are loaded automatically at startup via `python-dotenv`. CLI environment variables always take precedence.
+> Variables in `.env` are loaded automatically at startup via `python-dotenv`. CLI environment variables always take precedence over `.env`.
 
 ---
 
@@ -472,6 +734,9 @@ The **Fallback 3** fragmented packet scan uses these advanced anti-detection opt
 
 > These options are combined automatically in the fallback chain. The fragmented scan targets `--top-ports 100` to prevent timeouts.
 
+> [!NOTE]
+> **Windows:** Packet fragmentation (`-f`) and raw socket options require Administrator privileges. On macOS, they require `sudo`. On Linux, they require `root` or `sudo`.
+
 ---
 
 ## 🗂️ Project Structure
@@ -485,7 +750,7 @@ SecVuln/
 └── README.md            # This file
 ```
 
-> **Single-file design:** The entire pipeline — reconnaissance, NSE scanning, AI analysis, state graph, color system, banner, and CLI — lives in `main.py` for simplicity and portability.
+> **Single-file design:** The entire pipeline — reconnaissance, NSE scanning, AI analysis, state graph, color system, banner, and CLI — lives in `main.py` for simplicity and portability across all platforms.
 
 ---
 
@@ -511,14 +776,25 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built for security professionals, bug bounty hunters, and CTF players.**
-
-*Always hack ethically. Always get permission first.*
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    Built for security professionals, bug bounty hunters,         ║
+║    CTF players, and students of the offensive arts.              ║
+║                                                                  ║
+║         Always hack ethically. Always get permission.            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
 [![GitHub stars](https://img.shields.io/github/stars/mohamedatr1/SecVuln?style=social)](https://github.com/mohamedatr1/SecVuln/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mohamedatr1/SecVuln?style=social)](https://github.com/mohamedatr1/SecVuln/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/mohamedatr1/SecVuln?style=social)](https://github.com/mohamedatr1/SecVuln/issues)
+
+<br/>
+
+*Star ⭐ the repo if SecVuln helped you — it means the world.*
 
 </div>
